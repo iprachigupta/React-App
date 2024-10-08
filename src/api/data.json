@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Queen Of Tears",
+    "id": "queen of tears",
+    "img_url": "../images/qot1.jpg",
+    "rating": 8.5,
+    "desc": "The series depicts the crisis and rekindling of love between Hong Hae-in, a third-generation chaebol heiress of Queens Group, and Baek Hyun-woo, the son of farmers from Yongdu-ri, and their three years of marriage.",
+    "watch_url": "https://www.netflix.com/in/title/81707950"
+  },
+  {
+    "name": "Lonely Runner",
+    "id": "lonely runner ",
+    "img_url": "../images/lonelyrunner.jpeg",
+    "rating": 9.4,
+    "desc": "In the high-stakes world of stardom, Ryu Sun-jae (Byeon Woo-seok) shines as a top-tier celebrity whose life, despite its public facade, is marred by exhaustion. Im Sol, (Kim Hye-yoon) an ardent admirer of Sun-jae, finds solace in his music after a childhood accident derailed her dreams.",
+    "watch_url": "https://www.netflix.com/in/title/81914565?source=35"
+  },
+  {
+    "name": "Stranger Things",
+    "id": "stranger things",
+    "img_url": "../images/strangerthings.jpeg",
+    "rating": 9.1,
+    "desc": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces and one strange little girl.",
+    "watch_url": "https://www.netflix.com/in/title/80057281?source=35"
+  }
+]
+
