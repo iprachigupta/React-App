@@ -2,7 +2,7 @@ import { useState } from "react";
 
 const Todo = () => {
 
-    const [task, setTask] = useState([]);
+    const [task, setTask] = useState("");
     const handleFormChange = (event)=>{
         event.preventDefault();
     };
