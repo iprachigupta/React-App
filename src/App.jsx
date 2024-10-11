@@ -4,7 +4,9 @@
 // import Todo from "./components/Todo";
 // import { Registration } from "./components/Registration";
 // import { Login } from "./components/Login";
-import {Date} from "./components/Date";
+// import Challenge1 from "./components/Challenge1";
+// import Date1 from "./components/Date";
+import FetchApi from "./components/FetchApi";
 
 const App = ()=>{
   return (
@@ -17,7 +19,9 @@ const App = ()=>{
     {/* <Todo/> */}
     {/* <Registration /> */}
     {/* <Login /> */}
-    <Date />
+    {/* <Date1 /> */}
+    {/* <Challenge1 /> */}
+    <FetchApi />
     </>
   );
 }
